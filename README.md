@@ -8,3 +8,5 @@
 - テスト
 - ts-ignore している箇所の修正
 - コード中の TODO コメント
+
+使い方：src/index を default import する
